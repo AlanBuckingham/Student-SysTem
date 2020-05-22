@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lhwy", "lhwy.vcxproj", "{FDA01CB5-531F-4244-8A54-99B7B83E2CAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA01CB5-531F-4244-8A54-99B7B83E2CAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDA01CB5-531F-4244-8A54-99B7B83E2CAB}.Debug|x86.Build.0 = Debug|Win32
+		{FDA01CB5-531F-4244-8A54-99B7B83E2CAB}.Release|x86.ActiveCfg = Release|Win32
+		{FDA01CB5-531F-4244-8A54-99B7B83E2CAB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A1F48BD-37FE-4C5E-A70D-1BE5E5386E79}
+	EndGlobalSection
+EndGlobal
